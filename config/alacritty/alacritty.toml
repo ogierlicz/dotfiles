@@ -1,0 +1,26 @@
+[font]
+size = 17
+
+[font.normal]
+family = "UbuntuMono Nerd Font"
+
+[window]
+decorations = "ButtonLess"
+#startup_mode = "SimpleFullscreen"
+#opacity = 0.5
+#blur = true
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window.padding]
+x = 7
+y = 0
+
+[general]
+# themes from https://github.com/alacritty/alacritty-theme
+import = ["~/.config/alacritty/themes/themes/gruvbox_dark.toml"]
+
+[terminal]
+#shell = { program = "/bin/bash", args = ["-l", "-c", "tmux"] }
