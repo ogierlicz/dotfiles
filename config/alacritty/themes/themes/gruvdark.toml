@@ -1,0 +1,26 @@
+
+# Colors (Gruvdark dark)
+
+[colors.primary]
+background = '#1E1E1E'
+foreground = '#D6CFC4'
+
+[colors.normal]
+black   = '#232323'
+red     = '#E16464'
+green   = '#72BA62'
+yellow  = '#D19F66'
+blue    = '#579DD4'
+magenta = '#D159B6'
+cyan    = '#00A596'
+white   = '#9D9A94'
+
+[colors.bright]
+black   = '#373737'
+red     = '#B55353'
+green   = '#72BA62'
+yellow  = '#D19F66'
+blue    = '#2A404F'
+magenta = '#9266DA'
+cyan    = '#00A596'
+white   = '#E6E3DE'
